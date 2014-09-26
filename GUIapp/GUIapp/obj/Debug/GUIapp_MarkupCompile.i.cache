@@ -4,15 +4,15 @@
 winexe
 C#
 .cs
-D:\EPAM\GUIapp\GUIapp\obj\Debug\
+C:\OPMS\GUIapp\GUIapp\obj\Debug\
 GUIapp
 none
 false
 DEBUG;TRACE
-D:\EPAM\GUIapp\GUIapp\App.xaml
+C:\OPMS\GUIapp\GUIapp\App.xaml
 11151548125
 
-94351282
+9537245125
 12-1401562060
 MainWindow.xaml;
 

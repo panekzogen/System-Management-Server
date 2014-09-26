@@ -1,1 +1,2 @@
 D:\EPAM\GUIapp\GUIapp\bin\Debug\GUIapp.exe.config
+C:\OPMS\GUIapp\GUIapp\bin\Debug\GUIapp.exe.config
