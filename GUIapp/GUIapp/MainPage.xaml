@@ -1,0 +1,69 @@
+﻿<Page x:Class="GUIapp.MainPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+	Title="MainPage">
+
+    <Grid x:Name="Content" HorizontalAlignment="Center" VerticalAlignment="Center" Width="1016" Height="737">
+        <Image x:Name="Logo" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="100" Width="250" Stretch="Fill" RenderTransformOrigin="0,0" Source="Pictures/logotype.png" MouseLeftButtonUp="Logo_MouseLeftButtonUp" Cursor="Hand"/>
+        <StatusBar x:Name="StatusBar" HorizontalAlignment="Left" Height="25" Margin="265,701,0,0" VerticalAlignment="Top" Width="742">
+            <StatusBarItem>
+                <TextBox x:Name="StatusBarContent" Height="15" TextWrapping="Wrap" Width="734" BorderBrush="{x:Null}" Background="#FFF1EDED" FontSize="11" FontFamily="Tahoma"/>
+            </StatusBarItem>
+        </StatusBar>
+        <Menu x:Name="UserControls" HorizontalAlignment="Left" Height="35" Margin="676,10,0,0" VerticalAlignment="Top" Width="330" Background="{x:Null}">
+            <MenuItem x:Name="Settings" Header="   Settings" Height="35" Width="100" FontSize="16" BorderThickness="1" Margin="5,0" Background="#FF4DE474" BorderBrush="{x:Null}" Foreground="Black" FontFamily="Tahoma" Cursor="Hand"/>
+            <MenuItem x:Name="Help" Header="     Help" Width="100" Margin="5,0" FontSize="16" Background="#FF1ED84E" BorderBrush="{x:Null}" Foreground="Black" FontFamily="Tahoma" Cursor="Hand"/>
+            <MenuItem x:Name="Logout" Header="    Logout" Width="100" Margin="5,0" Click="Logout_Click" FontSize="16" Background="#FF18BF43" BorderBrush="{x:Null}" Foreground="Black" FontFamily="Tahoma" Cursor="Hand"/>
+        </Menu>
+        <Label x:Name="PageInfo" Content="Home page" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" Margin="265,50,0,0" VerticalAlignment="Top" Height="60" Width="250" Background="White" FontFamily="/GUIapp;component/Fonts/#Beckett" FontSize="36" FontWeight="Bold" FontStyle="Italic"/>
+        <Label x:Name="SessionInfo" Content="SessionInfo" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" Margin="471,10,0,0" VerticalAlignment="Top" Height="35" Width="200" Background="#FF6CEA8D" FontFamily="Tahoma" FontSize="16"/>
+        <ListView HorizontalAlignment="Left" Height="581" Margin="265,115,0,0" VerticalAlignment="Top" Width="742" Name="Output" MouseDoubleClick="ListView_MouseDoubleClick" FontFamily="Tahoma">
+            <ListView.View>
+                <GridView x:Name="OutputColumns">
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <ScrollViewer x:Name="Navigation" VerticalScrollBarVisibility="Auto" Margin="10,115,756,10">
+            <StackPanel Orientation="Vertical">
+                <Expander x:Name="Accounts" Header="Accounts" IsExpanded="True" Background="#FF18BF43" FontFamily="Tahoma" FontSize="18">
+                    <StackPanel Background="White">
+                        <Button x:Name="Administrators" Content="Administrators" HorizontalAlignment="Left" Background="{x:Null}" BorderBrush="{x:Null}" Margin="35,0,0,0" Click="Administrators_Selected" IsEnabled="False"/>
+                        <Button x:Name="Users" Content="Users" HorizontalAlignment="Left" Background="{x:Null}" BorderBrush="{x:Null}" Margin="35,0,0,0" Click="Users_Selected"/>
+                    </StackPanel>
+                </Expander>
+                <Expander x:Name="Tools" Header="Tools" Background="#FF18BF43" IsExpanded="True" FontFamily="Tahoma" FontSize="18">
+                    <StackPanel Background="White">
+                        <Button x:Name="FileManager" Content="File manager" HorizontalAlignment="Left" Background="{x:Null}" BorderBrush="{x:Null}" Margin="35,0,0,0" Click="FileManager_Selected"/>
+                        <Button x:Name="Databases" Content="Databases" HorizontalAlignment="Left" Background="{x:Null}" BorderBrush="{x:Null}" Margin="35,0,0,0" Click="Databases_Selected" IsEnabled="False"/>
+                        <Button x:Name="Services" Content="Services" HorizontalAlignment="Left" Background="{x:Null}" BorderBrush="{x:Null}" Margin="35,0,0,0" Click="Services_Selected" IsEnabled="False"/>
+                        <Button x:Name="Reboot" Content="Reboot" HorizontalAlignment="Left" Background="{x:Null}" BorderBrush="{x:Null}" Margin="35,0,0,0" Click="Reboot_Selected"/>
+                    </StackPanel>
+                </Expander>
+                <Expander x:Name="Statistics" Header="Statistics" Background="#FF18BF43" IsExpanded="True" FontFamily="Tahoma" FontSize="18">
+                    <StackPanel Background="White">
+                        <Button x:Name="MonitorButton" Content="Monitor" Background="{x:Null}" BorderBrush="{x:Null}" Margin="35,0,0,0" HorizontalAlignment="Left" Click="Monitor_Selected"/>
+                        <Button x:Name="Traffic" Content="Traffic" HorizontalAlignment="Left" Background="{x:Null}" BorderBrush="{x:Null}" Margin="35,0,0,0" Click="Traffic_Selected" IsEnabled="False"/>
+                        <Button x:Name="ErrorLog" Content="Error log" HorizontalAlignment="Left" Background="{x:Null}" BorderBrush="{x:Null}" Margin="35,0,0,0" Click="ErrorLog_Selected"/>
+                    </StackPanel>
+                </Expander>
+                <Expander x:Name="ServerConfig" Header="Server Configurations" Background="#FF18BF43" IsExpanded="True" FontFamily="Tahoma" FontSize="18">
+                    <StackPanel Background="White">
+                        <Button x:Name="Parameters" Content="Parameters" Background="{x:Null}" BorderBrush="{x:Null}" Margin="35,0,0,0" HorizontalAlignment="Left" Click="Parameters_Selected" IsEnabled="False"/>
+                        <Button x:Name="IPaddresses" Content="IP-addresses" HorizontalAlignment="Left" Background="{x:Null}" BorderBrush="{x:Null}" Margin="35,0,0,0" Click="IPaddresses_Selected"/>
+                        <Button x:Name="Features" Content="Features" HorizontalAlignment="Left" Background="{x:Null}" BorderBrush="{x:Null}" Margin="35,0,0,0" Click="Features_Selected" IsEnabled="False"/>
+                    </StackPanel>
+                </Expander>
+                <Expander x:Name="Other" Header="Other" Background="#FF18BF43" IsExpanded="True" FontFamily="Tahoma" FontSize="18" IsEnabled="False">
+                    <StackPanel Background="White">
+                        <Button x:Name="Email" Content="Email" HorizontalAlignment="Left" Background="{x:Null}" BorderBrush="{x:Null}" Margin="35,0,0,0" Click="Email_Selected"/>
+                        <Button x:Name="Reference" Content="Reference" HorizontalAlignment="Left" Background="{x:Null}" BorderBrush="{x:Null}" Margin="35,0,0,0" Click="Reference_Selected"/>
+                    </StackPanel>
+                </Expander>
+            </StackPanel>
+        </ScrollViewer>
+        <ToolBar x:Name="ButtonsContainer" HorizontalAlignment="Left" Margin="520,50,0,0" VerticalAlignment="Top" Height="60" Width="486" Background="#FF76F388"/>
+    </Grid>
+</Page>

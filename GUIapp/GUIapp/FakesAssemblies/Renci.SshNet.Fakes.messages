@@ -1,0 +1,270 @@
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.AuthenticationResult: type is a value type.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.CommandAsyncResult: type has no family visible contructors.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Channels.Channel: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Channels.ChannelDirectTcpip: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Channels.ChannelForwardedTcpip: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Channels.ChannelSession: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Channels.ChannelTypes: type is a value type.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Common.BigInteger: type is a value type.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Common.ChannelEventArgs: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Common.ChannelDataEventArgs: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Common.ChannelOpenFailedEventArgs: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Common.ChannelRequestEventArgs: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Extensions: type is sealed.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Common.ObjectIdentifier: type is a value type.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Common.PortForwardEventArgs: type has no family visible contructors.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Common.TerminalModes: type is a value type.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Compression.CompressionMode: type is a value type.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Compression.Zlib: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Messages.Transport.KeyExchangeEcdhInitMessage: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Security.Cryptography.RIPEMD160Hash: type is sealed.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.ShellStream: type has no family visible contructors.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.ExpectAsyncResult: type has no family visible contructors.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.ProxyTypes: type is a value type.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Messages.Authentication.InformationRequestMessage: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Messages.Authentication.InformationResponseMessage: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Messages.Authentication.PasswordChangeRequiredMessage: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Messages.Authentication.PublicKeyMessage: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Messages.Authentication.RequestMessageHost: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Messages.Authentication.RequestMessageKeyboardInteractive: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Messages.Authentication.RequestMessageNone: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Messages.Authentication.RequestMessagePassword: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Messages.Connection.ChannelOpenFailureReasons: type is a value type.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Messages.Connection.DirectTcpipChannelInfo: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Messages.Connection.ForwardedTcpipChannelInfo: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Messages.Connection.SessionChannelOpenInfo: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Messages.Connection.X11ChannelOpenInfo: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Messages.Connection.BreakRequestInfo: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Messages.Connection.EnvironmentVariableRequestInfo: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Messages.Connection.ExecRequestInfo: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Messages.Connection.ExitSignalRequestInfo: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Messages.Connection.ExitStatusRequestInfo: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Messages.Connection.PseudoTerminalRequestInfo: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Messages.Connection.ShellRequestInfo: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Messages.Connection.SignalRequestInfo: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Messages.Connection.SubsystemRequestInfo: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Messages.Connection.WindowChangeRequestInfo: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Messages.Connection.X11ForwardingRequestInfo: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Messages.Connection.XonXoffRequestInfo: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Messages.Connection.GlobalRequestName: type is a value type.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Messages.MessageAttribute: type is sealed.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Messages.ServiceName: type is a value type.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Messages.Transport.DisconnectReason: type is a value type.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Messages.Transport.KeyExchangeDhGroupExchangeInit: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Messages.Transport.KeyExchangeDhGroupExchangeReply: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Messages.Transport.KeyExchangeDhGroupExchangeRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Messages.Transport.KeyExchangeDhInitMessage: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.NetConf.NetConfSession: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Security.Cryptography.Ciphers.AesCipher: type is sealed.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Security.Cryptography.Ciphers.Arc4Cipher: type is sealed.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Security.Cryptography.Ciphers.BlowfishCipher: type is sealed.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Security.Cryptography.Ciphers.CastCipher: type is sealed.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Security.Cryptography.Ciphers.SerpentCipher: type is sealed.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Security.Cryptography.Ciphers.TripleDesCipher: type is sealed.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Security.Cryptography.Ciphers.TwofishCipher: type is sealed.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Security.Cryptography.MD5Hash: type is sealed.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Security.Cryptography.SHA1Hash: type is sealed.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Security.KeyExchangeDiffieHellmanGroup14Sha1: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Security.KeyExchangeDiffieHellmanGroupExchangeSha1: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Session: type has no family visible contructors.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Sftp.Flags: type is a value type.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Sftp.SftpMessage: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Sftp.Requests.SftpRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Sftp.Requests.SftpExtendedRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Sftp.Requests.FStatVfsRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Sftp.Requests.HardLinkRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Sftp.Requests.SftpUnblockRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Sftp.Requests.SftpBlockRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Sftp.Requests.PosixRenameRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Sftp.Requests.SftpCloseRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Sftp.Requests.SftpFSetStatRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Sftp.Requests.SftpFStatRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Sftp.Requests.SftpInitRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Sftp.Requests.SftpLinkRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Sftp.Requests.SftpLStatRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Sftp.Requests.SftpMkDirRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Sftp.Requests.SftpOpenDirRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Sftp.Requests.SftpOpenRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Sftp.Requests.SftpReadDirRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Sftp.Requests.SftpReadLinkRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Sftp.Requests.SftpReadRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Sftp.Requests.SftpRealPathRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Sftp.Requests.SftpRemoveRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Sftp.Requests.SftpRenameRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Sftp.Requests.SftpRmDirRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Sftp.Requests.SftpSetStatRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Sftp.Requests.SftpStatRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Sftp.Requests.SftpSymLinkRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Sftp.Requests.SftpWriteRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Sftp.Requests.StatVfsRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Sftp.Responses.ExtendedReplyInfo: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Sftp.Responses.StatVfsReplyInfo: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Sftp.Responses.SftpResponse: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Sftp.Responses.SftpAttrsResponse: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Sftp.Responses.SftpDataResponse: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Sftp.Responses.SftpExtendedReplyResponse: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Sftp.Responses.SftpHandleResponse: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Sftp.Responses.SftpNameResponse: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Sftp.Responses.SftpStatusResponse: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Sftp.Responses.SftpVersionResponse: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Sftp.SftpDataMessage: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Sftp.SftpFile: type has no family visible contructors.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Sftp.SftpFileAttributes: type has no family visible contructors.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Sftp.SftpFileStream: type has no family visible contructors.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Sftp.SftpFileSytemInformation: type has no family visible contructors.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Sftp.SftpMessageTypes: type is a value type.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Sftp.SftpSession: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Sftp.StatusCodes: type is a value type.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.Shell: type has no family visible contructors.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for Renci.SshNet.SshCommand: type has no family visible contructors.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for <PrivateImplementationDetails>{467B27C5-21AA-4BAF-9004-1CFFDB3EC8B5}: type is not supported because of internal limitations.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for <>f__AnonymousType0`2: type is sealed.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate stub for <>f__AnonymousType1`2: type is sealed.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.AuthenticationResult: type is an enum.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Channels.Channel: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Channels.ChannelDirectTcpip: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Channels.ChannelForwardedTcpip: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Channels.ChannelSession: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Channels.ChannelTypes: type is an enum.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.CipherInfo+<>c__DisplayClass2: type is not supported because of internal limitations.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Common.ChannelEventArgs: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Common.ChannelDataEventArgs: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Common.ChannelOpenFailedEventArgs: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Common.ChannelRequestEventArgs: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Extensions+<TrimLeadingZero>d__0: type is not supported because of internal limitations.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Common.TerminalModes: type is an enum.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Compression.CompressionMode: type is an enum.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Compression.Zlib: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.ConnectionInfo+<>c__DisplayClass3c: type is not supported because of internal limitations.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.ForwardedPortRemote+<>c__DisplayClass2: type is not supported because of internal limitations.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.ForwardedPortRemote+<>c__DisplayClass5: type is not supported because of internal limitations.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.HashInfo+<>c__DisplayClass2: type is not supported because of internal limitations.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Messages.Transport.IKeyExchangedAllowed: type is an interface.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Messages.Transport.KeyExchangeEcdhInitMessage: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Security.KeyExchange+<>c__DisplayClass30: type is not supported because of internal limitations.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Security.KeyExchange+_SessionKeyAdjustment: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Security.KeyExchange+_SessionKeyGeneration: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Security.KeyExchangeEllipticCurveDiffieHellman+_ExchangeHashData: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.ShellStream+<>c__DisplayClass1: type is not supported because of internal limitations.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.ShellStream+<>c__DisplayClass9: type is not supported because of internal limitations.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Security.KeyExchangeDiffieHellmanGroupSha1+_ExchangeHashData: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.SftpClient+<>c__DisplayClass1: type is not supported because of internal limitations.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.SftpClient+<>c__DisplayClass16: type is not supported because of internal limitations.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.SftpClient+<>c__DisplayClass1a: type is not supported because of internal limitations.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.SftpClient+<>c__DisplayClass1e: type is not supported because of internal limitations.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.SftpClient+<>c__DisplayClass20: type is not supported because of internal limitations.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.SftpClient+<>c__DisplayClass24: type is not supported because of internal limitations.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.SftpClient+<>c__DisplayClass5: type is not supported because of internal limitations.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.SftpClient+<>c__DisplayClassa: type is not supported because of internal limitations.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.SftpClient+<>c__DisplayClassf: type is not supported because of internal limitations.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.KeyboardInteractiveAuthenticationMethod+<>c__DisplayClass3: type is not supported because of internal limitations.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.KeyboardInteractiveAuthenticationMethod+<>c__DisplayClass8: type is not supported because of internal limitations.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.PasswordAuthenticationMethod+<>c__DisplayClass3: type is not supported because of internal limitations.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.ForwardedPortDynamic+<>c__DisplayClass3: type is not supported because of internal limitations.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.ForwardedPortDynamic+<>c__DisplayClass7: type is not supported because of internal limitations.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.ForwardedPortLocal+<>c__DisplayClass3: type is not supported because of internal limitations.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.ForwardedPortLocal+<>c__DisplayClass7: type is not supported because of internal limitations.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.PrivateKeyAuthenticationMethod+SignatureData: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.ProxyTypes: type is an enum.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.ScpClient+<>c__DisplayClass12: type is not supported because of internal limitations.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.ScpClient+<>c__DisplayClass16: type is not supported because of internal limitations.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.ScpClient+<>c__DisplayClass2: type is not supported because of internal limitations.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.ScpClient+<>c__DisplayClass6: type is not supported because of internal limitations.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.ScpClient+<>c__DisplayClassa: type is not supported because of internal limitations.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.ScpClient+<>c__DisplayClasse: type is not supported because of internal limitations.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Messages.Authentication.InformationRequestMessage: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Messages.Authentication.InformationResponseMessage: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Messages.Authentication.PasswordChangeRequiredMessage: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Messages.Authentication.PublicKeyMessage: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Messages.Authentication.RequestMessageHost: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Messages.Authentication.RequestMessageKeyboardInteractive: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Messages.Authentication.RequestMessageNone: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Messages.Authentication.RequestMessagePassword: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Messages.Connection.ChannelOpenFailureReasons: type is an enum.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Messages.Connection.DirectTcpipChannelInfo: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Messages.Connection.ForwardedTcpipChannelInfo: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Messages.Connection.SessionChannelOpenInfo: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Messages.Connection.X11ChannelOpenInfo: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Messages.Connection.BreakRequestInfo: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Messages.Connection.EnvironmentVariableRequestInfo: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Messages.Connection.ExecRequestInfo: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Messages.Connection.ExitSignalRequestInfo: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Messages.Connection.ExitStatusRequestInfo: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Messages.Connection.PseudoTerminalRequestInfo: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Messages.Connection.ShellRequestInfo: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Messages.Connection.SignalRequestInfo: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Messages.Connection.SubsystemRequestInfo: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Messages.Connection.WindowChangeRequestInfo: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Messages.Connection.X11ForwardingRequestInfo: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Messages.Connection.XonXoffRequestInfo: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Messages.Connection.GlobalRequestName: type is an enum.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Messages.ServiceName: type is an enum.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Messages.Transport.DisconnectReason: type is an enum.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Messages.Transport.KeyExchangeDhGroupExchangeInit: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Messages.Transport.KeyExchangeDhGroupExchangeReply: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Messages.Transport.KeyExchangeDhGroupExchangeRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Messages.Transport.KeyExchangeDhInitMessage: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.NetConf.NetConfSession: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.PrivateKeyFile+SshDataReader: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Security.KeyExchangeDiffieHellmanGroup14Sha1: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Security.KeyExchangeDiffieHellmanGroupExchangeSha1: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Security.KeyExchangeDiffieHellmanGroupExchangeSha256+_ExchangeHashData: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Security.KeyHostAlgorithm+SignatureKeyData: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Security.KeyHostAlgorithm+SshKeyData: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Session+<>c__DisplayClass35: type is not supported because of internal limitations.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Session+<>c__DisplayClass38: type is not supported because of internal limitations.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Session+<>c__DisplayClass3d: type is not supported because of internal limitations.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Session+<>c__DisplayClass44: type is not supported because of internal limitations.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Session+<>c__DisplayClass4b: type is not supported because of internal limitations.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Session+<HandleMessageCore>o__SiteContainer3a: type is not supported because of internal limitations.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Session+MessageMetadata: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Sftp.Flags: type is an enum.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Sftp.SftpMessage: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Sftp.Requests.SftpRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Sftp.Requests.SftpExtendedRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Sftp.Requests.FStatVfsRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Sftp.Requests.HardLinkRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Sftp.Requests.SftpUnblockRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Sftp.Requests.SftpBlockRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Sftp.Requests.PosixRenameRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Sftp.Requests.SftpCloseRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Sftp.Requests.SftpFSetStatRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Sftp.Requests.SftpFStatRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Sftp.Requests.SftpInitRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Sftp.Requests.SftpLinkRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Sftp.Requests.SftpLStatRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Sftp.Requests.SftpMkDirRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Sftp.Requests.SftpOpenDirRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Sftp.Requests.SftpOpenRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Sftp.Requests.SftpReadDirRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Sftp.Requests.SftpReadLinkRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Sftp.Requests.SftpReadRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Sftp.Requests.SftpRealPathRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Sftp.Requests.SftpRemoveRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Sftp.Requests.SftpRenameRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Sftp.Requests.SftpRmDirRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Sftp.Requests.SftpSetStatRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Sftp.Requests.SftpStatRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Sftp.Requests.SftpSymLinkRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Sftp.Requests.SftpWriteRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Sftp.Requests.StatVfsRequest: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Sftp.Responses.ExtendedReplyInfo: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Sftp.Responses.StatVfsReplyInfo: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Sftp.Responses.SftpResponse: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Sftp.Responses.SftpAttrsResponse: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Sftp.Responses.SftpDataResponse: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Sftp.Responses.SftpExtendedReplyResponse: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Sftp.Responses.SftpHandleResponse: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Sftp.Responses.SftpNameResponse: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Sftp.Responses.SftpStatusResponse: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Sftp.Responses.SftpVersionResponse: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Sftp.SftpDataMessage: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Sftp.SftpMessageTypes: type is an enum.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Sftp.SftpSession: type is not visible to exported or assembly(Renci.SshNet.Fakes).
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Sftp.StatusCodes: type is an enum.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Shell+<>c__DisplayClass3: type is not supported because of internal limitations.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.Shell+<>c__DisplayClassa: type is not supported because of internal limitations.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for Renci.SshNet.SshCommand+<>c__DisplayClass6: type is not supported because of internal limitations.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for <PrivateImplementationDetails>{467B27C5-21AA-4BAF-9004-1CFFDB3EC8B5}: type is not supported because of internal limitations.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for <>f__AnonymousType0`2: type is not supported because of internal limitations.
+D:\EPAM\GUIapp\GUIapp\Fakes\Renci.SshNet.fakes : warning : Cannot generate shim for <>f__AnonymousType1`2: type is not supported because of internal limitations.

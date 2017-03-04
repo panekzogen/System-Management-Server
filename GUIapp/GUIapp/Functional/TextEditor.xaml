@@ -1,0 +1,10 @@
+﻿<Window x:Class="GUIapp.Functional.TextEditor"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="TextEditor" Height="642" Width="860" Closing="Window_Closing">
+    <Grid>
+        <RichTextBox x:Name="ContentField" Margin="10" ScrollViewer.VerticalScrollBarVisibility="Auto">
+            <FlowDocument/>
+        </RichTextBox>
+    </Grid>
+</Window>

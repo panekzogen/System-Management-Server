@@ -1,0 +1,27 @@
+﻿<Page x:Class="GUIapp.LoginPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="525"
+	Title="LoginPage">
+
+    <Grid HorizontalAlignment="Center">
+        <Grid.Background>
+            <ImageBrush ImageSource="Pictures/BGLoginPage.png" Stretch="UniformToFill">
+                <ImageBrush.RelativeTransform>
+                    <TransformGroup>
+                        <ScaleTransform CenterY="0.5" ScaleX="0.7" ScaleY="0.7" CenterX="-0.2"/>
+                        <SkewTransform CenterY="0.5" CenterX="-0.2"/>
+                        <RotateTransform CenterY="0.5" CenterX="-0.2"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </ImageBrush.RelativeTransform>
+            </ImageBrush>
+        </Grid.Background>
+        <Button Content="Connect" Height="30" HorizontalAlignment="Left" Margin="377,240,0,0" x:Name="ConnectButton" VerticalAlignment="Top" Width="120" BorderBrush="#FF53575B" Background="#FF16BF43" Click="ConnectButton_Click" Cursor="Hand" FontFamily="/GUIapp;component/Fonts/#Beckett" FontSize="24" />        <TextBlock Height="17" HorizontalAlignment="Left" Margin="298,30,0,0" x:Name="UsernameTitle" Text="Username" VerticalAlignment="Top" Width="95" FontFamily="Tahoma" FontSize="16"/>        <TextBlock Height="23" HorizontalAlignment="Left" Margin="298,77,0,0" Name="PassTitle" Text="Password" VerticalAlignment="Top" FontFamily="Tahoma" FontSize="16" />        <TextBlock Height="23" HorizontalAlignment="Left" Margin="299,151,0,0" Name="IPTitle" Text="IP-address" VerticalAlignment="Top" FontFamily="Tahoma" FontSize="16" />        <TextBox Height="20" HorizontalAlignment="Left" Margin="299,52,0,0" x:Name="UsernameField" VerticalAlignment="Top" Width="150" FontFamily="Tahoma" FontSize="14" Background="{x:Null}" BorderBrush="SlateGray" SelectionBrush="#FF1FD137" />        <PasswordBox Height="20" HorizontalAlignment="Left" Margin="299,100,0,0" Name="PassField" VerticalAlignment="Top" Width="150" BorderBrush="SlateGray" FontFamily="Tahoma" FontSize="16" Background="{x:Null}" SelectionBrush="#FF3399FF" />        <TextBox Height="20" HorizontalAlignment="Left" Margin="299,174,0,0" Name="IPField" VerticalAlignment="Top" Width="115" BorderBrush="SlateGray" FontFamily="Tahoma" FontSize="14" Background="{x:Null}" />
+        <TextBox Height="20" HorizontalAlignment="Left" Margin="419,174,0,0" x:Name="PortField" VerticalAlignment="Top" Width="30" BorderBrush="SlateGray" FontFamily="Tahoma" FontSize="14" RenderTransformOrigin="-0.25,0.45" Background="{x:Null}" />
+        <CheckBox x:Name="Terminal" Content="Open terminal" HorizontalAlignment="Left" Margin="329,217,0,0" VerticalAlignment="Top" FontFamily="Tahoma" FontSize="16"/>
+    </Grid>
+</Page>

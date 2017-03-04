@@ -1,0 +1,10 @@
+﻿<Window x:Class="GUIapp.Functional.SaveWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Save" Height="81.196" Width="228.557">
+    <Grid>
+        <Button x:Name="Save" Content="Save" HorizontalAlignment="Left" Width="80" Margin="10,10,0,0" Height="23" VerticalAlignment="Top" Click="Save_Click"/>
+        <Button x:Name="DontSave" Content="Don't save" HorizontalAlignment="Left" Width="80" Margin="121,10,0,0" Height="23" VerticalAlignment="Top" Click="DontSave_Click"/>
+
+    </Grid>
+</Window>
