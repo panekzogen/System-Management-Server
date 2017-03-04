@@ -29,4 +29,4 @@ Project consist of server and client parts. Client part presented as page or sep
 * Local IP: 172.19.9.122
 * Port: 8000
 
-![alt tag](https://pp.vk.me/c622321/v622321702/a860/GqvnzApUQnY.jpg)
+![alt tag](https://github.com/taomWTP/System-Management-Server/blob/GUIapp/GqvnzApUQnY.jpg)
